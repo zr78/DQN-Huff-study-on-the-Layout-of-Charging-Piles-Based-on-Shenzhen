@@ -74,7 +74,7 @@ DQN-Huff-study-on-the-Layout-of-Charging-Piles-Based-on-Shenzhen
 
 ## 作者
 
-zhanguri
+zhangrui
 
 *QQ邮箱：2811669184@qq.com*
 
